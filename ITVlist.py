@@ -6,7 +6,7 @@ import requests
 import os
 from urllib.parse import urljoin
 
-URL_FILE = "https://raw.githubusercontent.com/fyj168/JDY/main/ip_urls.txt"
+URL_FILE = "https://github.com/fyj168/JDY/blob/main/ip_urls.txt"
 
 CHANNEL_CATEGORIES = {
     "央视频道": [
